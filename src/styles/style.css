@@ -13,8 +13,16 @@
     color: white;
   }
 
-  p {
+  h2 {
     color: white;
+  }
+
+  h3 {
+    color: black;
+  }
+
+  p {
+    color: black;
   }
 
   form {

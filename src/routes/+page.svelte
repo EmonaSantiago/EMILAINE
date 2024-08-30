@@ -3,12 +3,13 @@
   <body>
   
   <h1>ATE EMEYS</h1>
-  <p>handmade custom crozier </p>
+  <h2>handmade custom crochet </h2>
   
   <div class="row">
     <div class="column">
       <div class="card">
-        <h3>Card 1</h3>
+        <h3>ITEM 1</h3>
+        <img src="https://i.ebayimg.com/images/g/J58AAOSwMBli7Smc/s-l1200.jpg" alt="Paris" width="300" height="300">
         <p>Some text</p>
         <p>Some text</p>
       </div>
@@ -16,7 +17,8 @@
   
     <div class="column">
       <div class="card">
-        <h3>Card 2</h3>
+        <h3>ITEM 2</h3>
+        <img src="https://i.ebayimg.com/images/g/J58AAOSwMBli7Smc/s-l1200.jpg" alt="Paris" width="300" height="300">
         <p>Some text</p>
         <p>Some text</p>
       </div>
@@ -24,7 +26,8 @@
     
     <div class="column">
       <div class="card">
-        <h3>Card 3</h3>
+        <h3>ITEM 3</h3>
+        <img src="https://i.ebayimg.com/images/g/J58AAOSwMBli7Smc/s-l1200.jpg" alt="Paris" width="300" height="300">
         <p>Some text</p>
         <p>Some text</p>
       </div>
@@ -32,7 +35,8 @@
     
     <div class="column">
       <div class="card">
-        <h3>Card 4</h3>
+        <h3>ITEM 4</h3>
+        <img src="https://i.ebayimg.com/images/g/J58AAOSwMBli7Smc/s-l1200.jpg" alt="Paris" width="300" height="300">
         <p>Some text</p>
         <p>Some text</p>
       </div>
